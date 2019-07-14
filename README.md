@@ -1,3 +1,7 @@
+# Note
+
+This fork from spatie package to add support for php7.2. 
+To install this version use ``` composer require ahmad-shawky/laravel-webhook-server ```
 # Send webhooks from Laravel apps
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-webhook-server.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-webhook-server)
